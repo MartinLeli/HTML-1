@@ -3,4 +3,4 @@
 
 [Demo van deze opdracht](https://martinleli.github.io/HTML-1/)
 
-![screenshot](Afb Table.png)
+[screenshot](Afb Table.png)
