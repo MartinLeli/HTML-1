@@ -2,3 +2,5 @@
 #### CSS assignment
 
 [Demo van deze opdracht](https://martinleli.github.io/HTML-1/)
+
+![screenshot](De afb.png)
