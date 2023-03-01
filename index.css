@@ -1,0 +1,100 @@
+#uppertext {
+    font-size: 50px;
+    text-align: center;
+    font-family: Arial
+}
+
+table {
+    width:60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.super {
+    border-style: solid;
+    border-width: 2px;
+}
+
+#utrecht {
+    border-style: solid dotted solid dotted;
+    text-align: center;
+    border-left-color: green;
+    border-right-color: green;
+    border-left-width: 8px;
+    border-right-width: 8px;
+    border-bottom-width: 2px;
+    border-top-width: 2px;
+}
+
+.mango {
+    border-style: dotted;
+    border-width: 30px;
+    border-color:red;
+}
+
+#one {
+    border-style: solid;
+    text-align:center; 
+    border-width: 2px;
+}
+
+#two {
+    font-size: 100px;
+    border: 8px solid rgb(204, 69, 175);
+    width: 350px;
+    height: 250px;  
+    border-radius: 80px; 
+    margin:auto;
+    text-align:center; 
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    padding: 10px;
+    border-width: 4px;
+}
+#two:hover {
+    background-color: black;
+    color: white;
+}
+.three {
+    font-size: 100px;
+    background-color: black;
+    text-align:center; 
+    color: white
+}
+.three:hover {
+    background-color: rgb(255, 255, 255);
+    color: black;
+
+}
+#amsterdam {
+    text-align:center; 
+    border-style: dashed solid dashed solid;
+    border-top-color: #b02dfc; 
+    border-bottom-color: #b02dfc;
+    border-top-width: 10px;
+    border-bottom-width: 10px;
+    border-left-width: 2px;
+    border-right-width: 2px;
+}
+
+#groningen {
+    border-style: dotted;
+    border-width: 30px;
+    border-color:red;
+    text-align: center;
+}
+
+#appel {
+    border-style: solid dotted solid dotted;
+    border-left-color: green;
+    border-right-color: green;
+    border-left-width: 8px;
+    border-right-width: 8px;
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+}
+/*
+.color_bg_white:hover {
+    background-color: rgb(255, 255, 255);
+}
+*/
